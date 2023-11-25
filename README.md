@@ -1,4 +1,4 @@
-# Pasta Front: Criando Interfaces Intuitivas
+# Pasta Front: Criando Interfaces
 
 ![Front](link-para-imagem.gif)
 
